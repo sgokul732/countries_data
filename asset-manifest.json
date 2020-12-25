@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/countries/static/css/main.89692ada.chunk.css",
-    "main.js": "/countries/static/js/main.cb693a06.chunk.js",
-    "main.js.map": "/countries/static/js/main.cb693a06.chunk.js.map",
-    "runtime-main.js": "/countries/static/js/runtime-main.65d00616.js",
-    "runtime-main.js.map": "/countries/static/js/runtime-main.65d00616.js.map",
-    "static/js/2.e89c7255.chunk.js": "/countries/static/js/2.e89c7255.chunk.js",
-    "static/js/2.e89c7255.chunk.js.map": "/countries/static/js/2.e89c7255.chunk.js.map",
-    "static/js/3.1dad8080.chunk.js": "/countries/static/js/3.1dad8080.chunk.js",
-    "static/js/3.1dad8080.chunk.js.map": "/countries/static/js/3.1dad8080.chunk.js.map",
-    "index.html": "/countries/index.html",
-    "static/css/main.89692ada.chunk.css.map": "/countries/static/css/main.89692ada.chunk.css.map",
-    "static/js/2.e89c7255.chunk.js.LICENSE.txt": "/countries/static/js/2.e89c7255.chunk.js.LICENSE.txt",
-    "static/media/globe.9d38b994.png": "/countries/static/media/globe.9d38b994.png",
-    "static/media/no-data.e2cb97bb.png": "/countries/static/media/no-data.e2cb97bb.png"
+    "main.css": "/countries_data/static/css/main.89692ada.chunk.css",
+    "main.js": "/countries_data/static/js/main.273ef742.chunk.js",
+    "main.js.map": "/countries_data/static/js/main.273ef742.chunk.js.map",
+    "runtime-main.js": "/countries_data/static/js/runtime-main.dab17cce.js",
+    "runtime-main.js.map": "/countries_data/static/js/runtime-main.dab17cce.js.map",
+    "static/js/2.e89c7255.chunk.js": "/countries_data/static/js/2.e89c7255.chunk.js",
+    "static/js/2.e89c7255.chunk.js.map": "/countries_data/static/js/2.e89c7255.chunk.js.map",
+    "static/js/3.1dad8080.chunk.js": "/countries_data/static/js/3.1dad8080.chunk.js",
+    "static/js/3.1dad8080.chunk.js.map": "/countries_data/static/js/3.1dad8080.chunk.js.map",
+    "index.html": "/countries_data/index.html",
+    "static/css/main.89692ada.chunk.css.map": "/countries_data/static/css/main.89692ada.chunk.css.map",
+    "static/js/2.e89c7255.chunk.js.LICENSE.txt": "/countries_data/static/js/2.e89c7255.chunk.js.LICENSE.txt",
+    "static/media/globe.9d38b994.png": "/countries_data/static/media/globe.9d38b994.png",
+    "static/media/no-data.e2cb97bb.png": "/countries_data/static/media/no-data.e2cb97bb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65d00616.js",
+    "static/js/runtime-main.dab17cce.js",
     "static/js/2.e89c7255.chunk.js",
     "static/css/main.89692ada.chunk.css",
-    "static/js/main.cb693a06.chunk.js"
+    "static/js/main.273ef742.chunk.js"
   ]
 }
