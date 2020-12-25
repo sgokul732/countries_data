@@ -16,7 +16,7 @@ const CountryInfo = (props) => {
         <br></br>
         Languages : {lang.join(", ")}
         <br></br>
-        Population : {props.item.population}        
+        Population : {props.item.population}
         <br></br>
         Region : {props.item.region}
       </Modal.Body>

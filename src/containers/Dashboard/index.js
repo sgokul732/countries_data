@@ -9,19 +9,18 @@ const DashBoard = (props) => {
   const [search, setKeyword] = useState("");
   const [filterData, setFilterData] = useState([]);
   const filterCountries = (key) => {
-    let newData =countries;
+    let newData = countries;
     if (key && countries) {
       newData = countries.filter((entry) =>
         entry.name.toLowerCase().startsWith(key.toLowerCase())
       );
-     
     }
-    setFilterData( newData );
+    setFilterData(newData);
   };
 
   useEffect(() => {
     filterCountries(search);
-  }, [search,countries]);
+  }, [search, countries]);
 
   useEffect(() => {
     getCountries();

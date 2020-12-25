@@ -22,4 +22,3 @@ export const GetCountriesReducer = (state = {}, action) => {
       return state;
   }
 };
-

@@ -11,10 +11,9 @@ const CountryList = (props) => {
     return <img className="full" src={noData} alt="No Data Available" />;
 
   return (
-    <div className='card1'>
+    <div className="card1">
       {props.data.map((item, index) => (
         <CountryCard item={item} key={index} />
-        
       ))}
     </div>
   );

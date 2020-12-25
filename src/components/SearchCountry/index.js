@@ -5,7 +5,7 @@ import globe from "../../assets/images/globe.png";
 const SearchCountry = ({ setKeyword, search }) => {
   return (
     <div className="input-group">
-      <img className="logo" src={globe} alt="Loading" />
+      <img className="logo" src={globe} alt="Globe Unavailable" />
       <input
         onChange={(e) => {
           setKeyword(e.target.value);
@@ -14,7 +14,6 @@ const SearchCountry = ({ setKeyword, search }) => {
         type="text"
         className="form-control"
         placeholder="Search Country"
-  
       />
     </div>
   );

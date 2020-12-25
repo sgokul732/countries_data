@@ -21,12 +21,7 @@ const CountryCard = (props) => {
     <>
       <div className="row" onClick={handleShow}>
         <div className="col-sm-6">
-          <img
-        
-            className="card-img-top"
-            src={thumbnail}
-            alt="Loading Flag"
-          />
+          <img className="card-img-top" src={thumbnail} alt="Loading Flag" />
 
           <div className="card-body-left">
             <p className="card-text">Population</p>
