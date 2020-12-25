@@ -6,7 +6,7 @@ import "./style.css";
 import { fetchCountries } from "../../actions/SearchCountry";
 const DashBoard = (props) => {
   const { getCountries, loading, error, countries } = props;
-  const [search, setKeyword] = useState(undefined);
+  const [search, setKeyword] = useState("");
   const [filterData, setFilterData] = useState([]);
   const filterCountries = (key) => {
     let newData =countries;
