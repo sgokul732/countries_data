@@ -1,0 +1,15 @@
+
+.full{
+  height: 400px;
+  width: 50%;
+  margin: auto;
+}
+.card1 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 4fr));
+  grid-gap: .5rem;
+  
+
+}
+
+
