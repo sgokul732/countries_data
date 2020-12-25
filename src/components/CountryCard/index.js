@@ -23,12 +23,13 @@ const CountryCard = (props) => {
         <div className="col-sm-6">
           <img className="card-img-top" src={thumbnail} alt="Loading Flag" />
 
-          <div className="card-body-left">
-            <p className="card-text">Population</p>
-            <h5 className="card-title">{population}</h5>
+          <div className="card-body">
+            <br></br>
+            <p>Population</p>
+            <h6>{population}</h6>
           </div>
         </div>
-        <div className="card-body-right">
+        <div className="card-body">
           <h5 className="card-title">{name}</h5>
           <p className="card-text">{capital}</p>
         </div>
